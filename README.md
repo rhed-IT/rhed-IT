@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @rhed-IT
-- 👀 I’m interested in business analysis, software development, testing and cybersecurity.
+- 👀 I’m interested in project management, business analysis, software development, testing and cybersecurity.
