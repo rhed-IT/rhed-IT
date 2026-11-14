@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @rhed-IT
-- 👀 I’m interested in IT Operations, Project Management, Business Analysis, and Cybersecurity-GRC.
+- 👀 I’m interested in IT Operations, Project Management, Business Analysis, and Cybersecurity.
